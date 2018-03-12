@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">4 Game 277</string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="timeText">Time</string>
+    <string name="attemptText">Attempt</string>
+    <string name="time">00:00</string>
+    <string name="attempt">0</string>
+    <string name="succeededText">Succeeded</string>
+    <string name="succeeded">0</string>
+    <string name="skipped">0</string>
+    <string name="skippedText">Skipped</string>
+    <string name="value">value</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="op">(</string>
+    <string name="cp">)</string>
+    <string name="bs">&lt;-</string>
+    <string name="done">Done</string>
+    <string name="showme">Show Me</string>
+    <string name="assignnumbers">Assign Numbers</string>
+</resources>
